@@ -2,6 +2,17 @@
 
 **Make every menu feel tactile.**
 
+A macOS trackpad enhancement bringing magnetic
+navigation, tactile feedback, and velocity-aware
+scrolling to native menus.
+
+### [▶ Launch Interactive Demo](https://anshulmahesh.github.io/menu-magnet/)
+
+Explore the gestures directly in your browser.
+
+[Installation & Customization](https://anshulmahesh.github.io/menu-magnet/guide.html)
+· [Source Code](https://github.com/anshulmahesh/menu-magnet)
+
 Menu Magnet is a macOS trackpad interaction experiment that transforms ordinary scrolling within supported native menus into discrete magnetic steps, with optional haptic feedback and velocity-sensitive navigation. It runs locally with [Hammerspoon](https://www.hammerspoon.org/).
 
 **Website:** Enable GitHub Pages using the `/docs` folder to publish the interactive showcase in `docs/index.html`.
